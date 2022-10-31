@@ -11,9 +11,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Women, Life, Freedom.
+          WLF Suomi
         </h1>
-        <h2>Finland</h2>
+        <h2>Coming soon.</h2>
       </main>
     </div>
   )
