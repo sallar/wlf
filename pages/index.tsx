@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>
           WLF Suomi
         </h1>
-        <h2>Coming soon.</h2>
+        <h2>Women, Life, Freedom Collective</h2>
       </main>
     </div>
   )
